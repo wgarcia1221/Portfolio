@@ -6,7 +6,7 @@
 
 ### **[American Sign Language Image Classification](https://github.com/wgarcia1221/Portfolio/tree/master/American%20Sign%20Language%20Image%20Classification)**
 
-Experimented with several deep learning transfer learning models available for image classification in order to perform multi-class classification on the dataset. The goal is to train a deep neural network that classifies the dataset and provides a model that accurately predicts the different letters of the sign language alphabet. The blog_post.ipynb file contains a detailed account of the experimental process and a clear overview of the coding done.
+* Experimented with several deep learning transfer learning models available for image classification in order to perform multi-class classification on the dataset. The goal is to train a deep neural network that classifies the dataset and provides a model that accurately predicts the different letters of the sign language alphabet. The blog_post.ipynb file contains a detailed account of the experimental process and a clear overview of the coding done.
 
 ### **[Genetic Programming and Symbolic Regression](https://github.com/wgarcia1221/Portfolio/tree/master/Genetic%20Programming%20and%20Symbolic%20Regression)**
 
