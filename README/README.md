@@ -1,4 +1,5 @@
-# Portfolio
+# Wilbert Garcia's Portfolio
+<center><img src="headshot.jpeg" alt="Proof that I know how to use markdown"></center>
 
 ### **A* Star Search and Heurisitc Functions**
 
