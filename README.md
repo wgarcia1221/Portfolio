@@ -1,5 +1,7 @@
 # Wilbert Garcia's Portfolio
 
+## Machine Learning 
+
 ### **[A* Star Search and Heurisitc Functions](https://github.com/wgarcia1221/Portfolio/tree/master/A%20Star%20Search%20%2B%20Heurisitics)**
 
 * An implementation of the A star search algorithm along with three different heuristic functions in order to investigate the impact of the heuristic functions on search performance. This is done in order to optimize the solving of the 8 sliding tile puzzle. The folder also contains the accompanying paper describing the results of the research.
@@ -23,3 +25,25 @@
 ### **[Pneumonia Chest X-Ray Image Classification](https://github.com/wgarcia1221/Portfolio/tree/master/Pneumonia%20X-Ray%20Chest%20Image%20Classification)**
 
 * Experimented with different techniques available for Deep Learning image classification from building convolutional neural networks from scratch to using transfer learning models in order to perform binary classification on image dataset. The writeup.ipynb file contains a detailed account of the experimental process and a clear overview of the coding done.
+
+## Web Development/Design
+
+### **[QC EdConnect](https://qcedconnect.wixsite.com/mysite-1)**
+
+*
+
+### **[Data Management Dashboard](https://github.com/wgarcia1221/Portfolio/blob/master/Design%20Portfolio/SCC%20Dashboard.pdf)**
+
+*
+
+### **[College Reopening Data Dashboard](https://github.com/wgarcia1221/Portfolio/blob/master/Design%20Portfolio/ATI.pdf)**
+
+*
+
+**[COVID MYTHS INFOGRAPHIC](https://github.com/wgarcia1221/Portfolio/blob/master/Design%20Portfolio/COVID_Myths.pdf)**
+
+*
+
+### **[Miscellaneous Designs](https://github.com/wgarcia1221/Portfolio/blob/master/Design%20Portfolio/Logos.pdf)**
+
+*
