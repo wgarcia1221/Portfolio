@@ -14,14 +14,6 @@
 
 * Designed and Developed an R Shiny Dashboard for a private organization looking to analyze data on the reopening plans of institutions of higher education in response to the COVID 19 pandemic. This is an internal version of the [Davidson College Data Dashboard](https://collegecrisis.shinyapps.io/dashboard/) that was created for the American Talent Initiative. Worked with stakeholders to understand requirements and ensure that design and user experience serve the users. Created designs for scorecard to disseminate information simply and clearly relating to relevant metrics surrounding the reopening of schools. 
 
-### **[COVID MYTHS INFOGRAPHIC](https://github.com/wgarcia1221/Portfolio/blob/master/Design%20Portfolio/COVID_Myths.pdf)**
-
-* Designed infographic to address and classify common myths associated with the COVID 19 pandemic in order to combat fake news and misinformation in the Davidson College community. The designs were created through Canva. 
-
-### **[Miscellaneous Designs](https://github.com/wgarcia1221/Portfolio/blob/master/Design%20Portfolio/Logos.pdf)**
-
-* A variety of different logos/designs that I have been tasked with creating for a variety of different organizations.
-
 ## Machine Learning 
 
 ### **[A* Star Search and Heurisitc Functions](https://github.com/wgarcia1221/Portfolio/tree/master/A%20Star%20Search%20%2B%20Heurisitics)**
