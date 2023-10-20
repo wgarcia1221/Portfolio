@@ -1,26 +1,10 @@
 # Wilbert Garcia's Portfolio
 
-## Web Development/Design
+## Brainwashd
 
-### **[QC EdConnect](https://qcedconnect.wixsite.com/mysite-1)**
+### **[Next.JS Misinformation Application](https://www.brainwashd.me)**
 
-* Designed and Built website for company in 24 hours that works to connect existing learning resources to disadvantaged students and families and to connect willing volunteers with opportunites to advocate and give. QC EdConnect is based in the Charlotte Mecklenburg area and came to fruition during the pandemic to prevent a further educational gap for disadvantaged students. Worked with cofounders to  and ensure that design and user experience serve the users.
-
-### **[Data Management Dashboard](https://github.com/wgarcia1221/Portfolio/blob/master/Design%20Portfolio/SCC%20Dashboard.pdf)**
-
-* Designed and Developed an R Shiny Dashboard for an organization looking to protect a historic black community of eldery residents in North Carolina from predatory housing practices. Collaborated with subject matter experts to anticipate client needs, and worked with peer to help ensure a simple and excellent experience for the user while satisfying the requirements of the client. 
-
-### **[College Reopening Data Dashboard](https://github.com/wgarcia1221/Portfolio/blob/master/Design%20Portfolio/ATI.pdf)**
-
-* Designed and Developed an R Shiny Dashboard for a private organization looking to analyze data on the reopening plans of institutions of higher education in response to the COVID 19 pandemic. This is an internal version of the [Davidson College Data Dashboard](https://collegecrisis.shinyapps.io/dashboard/) that was created for the American Talent Initiative. Worked with stakeholders to understand requirements and ensure that design and user experience serve the users. Created designs for scorecard to disseminate information simply and clearly relating to relevant metrics surrounding the reopening of schools. 
-
-### **[COVID MYTHS INFOGRAPHIC](https://github.com/wgarcia1221/Portfolio/blob/master/Design%20Portfolio/COVID_Myths.pdf)**
-
-* Designed infographic to address and classify common myths associated with the COVID 19 pandemic in order to combat fake news and misinformation in the Davidson College community. The designs were created through Canva. 
-
-### **[Miscellaneous Designs](https://github.com/wgarcia1221/Portfolio/blob/master/Design%20Portfolio/Logos.pdf)**
-
-* A variety of different logos/designs that I have been tasked with creating for a variety of different organizations.
+* Web application to analyze misinformation and disinformation built using Next.JS leveraging a hosted Python API that scrapes news articles and twitter posts for text content. Text content is then analyzed for potential biases and inaccuracies using the OpenAI API.
 
 ## Machine Learning 
 
@@ -47,3 +31,21 @@
 ### **[Pneumonia Chest X-Ray Image Classification](https://github.com/wgarcia1221/Portfolio/tree/master/Pneumonia%20X-Ray%20Chest%20Image%20Classification)**
 
 * Experimented with different techniques available for Deep Learning image classification from building convolutional neural networks from scratch to using transfer learning models in order to perform binary classification on image dataset. The writeup.ipynb file contains a detailed account of the experimental process and a clear overview of the coding done.
+
+## Web Development/Design
+
+### **[QC EdConnect](https://qcedconnect.wixsite.com/mysite-1)**
+
+* Designed and Built website for company in 24 hours that works to connect existing learning resources to disadvantaged students and families and to connect willing volunteers with opportunites to advocate and give. QC EdConnect is based in the Charlotte Mecklenburg area and came to fruition during the pandemic to prevent a further educational gap for disadvantaged students. Worked with cofounders to  and ensure that design and user experience serve the users.
+
+### **[Data Management Dashboard](https://github.com/wgarcia1221/Portfolio/blob/master/Design%20Portfolio/SCC%20Dashboard.pdf)**
+
+* Designed and Developed an R Shiny Dashboard for an organization looking to protect a historic black community of eldery residents in North Carolina from predatory housing practices. Collaborated with subject matter experts to anticipate client needs, and worked with peer to help ensure a simple and excellent experience for the user while satisfying the requirements of the client. 
+
+### **[College Reopening Data Dashboard](https://github.com/wgarcia1221/Portfolio/blob/master/Design%20Portfolio/ATI.pdf)**
+
+* Designed and Developed an R Shiny Dashboard for a private organization looking to analyze data on the reopening plans of institutions of higher education in response to the COVID 19 pandemic. This is an internal version of the [Davidson College Data Dashboard](https://collegecrisis.shinyapps.io/dashboard/) that was created for the American Talent Initiative. Worked with stakeholders to understand requirements and ensure that design and user experience serve the users. Created designs for scorecard to disseminate information simply and clearly relating to relevant metrics surrounding the reopening of schools. 
+
+### **[Miscellaneous Designs](https://github.com/wgarcia1221/Portfolio/blob/master/Design%20Portfolio/Logos.pdf)**
+
+* A variety of different logos/designs that I have been tasked with creating for a variety of different organizations.
